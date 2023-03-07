@@ -1,0 +1,30 @@
+.header {
+  background: #3a4f63 url(/images/header_background.webp) no-repeat center fixed;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  
+}
+.img_header {
+  height: 23px;
+  margin-top: 41px;
+  margin-bottom: 305px;
+  display: flex;
+  justify-content: center;
+}
+.H1 {
+  font-family: 60px "Bebas Neue";
+  size: 60px;
+  color: #ffffff;
+  font-weight: 400;
+
+}
+p{
+  color: #ffffff;
+  margin-bottom: 221px;
+}
+.scrolldown{
+  margin-bottom: 71px;
+   color: #ffffff;
+}
