@@ -1,10 +1,11 @@
 .header {
   background: #3a4f63 url(/images/header_background.webp) no-repeat center fixed;
-
+  background-size: cover;
+  height: 769px;
   display: flex;
   flex-direction: column;
   text-align: center;
-  
+  align-items: center;
 }
 .img_header {
   height: 23px;
@@ -15,16 +16,20 @@
 }
 .H1 {
   font-family: 60px "Bebas Neue";
-  size: 60px;
+  font-size: 60px;
   color: #ffffff;
   font-weight: 400;
-
 }
-p{
+p {
   color: #ffffff;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 16px;
   margin-bottom: 221px;
 }
-.scrolldown{
+.scrolldown {
+  font-weight: 700;
+  font-size: 11px;
   margin-bottom: 71px;
-   color: #ffffff;
+  color: #ffffff;
 }

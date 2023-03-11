@@ -1,0 +1,67 @@
+.navigation {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 1px solid #E6E6E6;
+}
+.img_navigation {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  
+}
+.navigation_list {
+  margin: 25px;
+  
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.home {
+  
+  color: black;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  margin-left: 47px;
+}
+.about {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  margin-left: 47px;
+}
+.services{
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  margin-left: 43px;
+}
+.work{
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  margin-left: 38px;
+
+}
+.contact{
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  margin-left: 29px;
+}
+a{
+   color: #48555B;
+  text-decoration: none;
+  transition: 0.5s;
+
+}
+a:hover{
+  color: #00A4E5;
+  transition: 0.5s;
+}
