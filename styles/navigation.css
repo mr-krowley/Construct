@@ -2,22 +2,25 @@
   background-color: #ffffff;
   display: flex;
   justify-content: space-evenly;
-  border-bottom: 1px solid #E6E6E6;
+  border-bottom: 1px solid #e6e6e6;
+  position: sticky;
+  left: 0;
+  top: 10px;
+  width: 100%;
+  height: 60px;
 }
 .img_navigation {
   margin-top: 24px;
   margin-bottom: 24px;
-  
 }
 .navigation_list {
   margin: 25px;
-  
+
   display: flex;
   justify-content: space-between;
   list-style-type: none;
 }
 .home {
-  
   color: black;
   font-family: "Open Sans";
   font-style: normal;
@@ -32,36 +35,33 @@
   font-size: 12px;
   margin-left: 47px;
 }
-.services{
+.services {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   margin-left: 43px;
 }
-.work{
+.work {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   margin-left: 38px;
-
 }
-.contact{
-
+.contact {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   margin-left: 29px;
 }
-a{
-   color: #48555B;
+a {
+  color: #48555b;
   text-decoration: none;
   transition: 0.5s;
-
 }
-a:hover{
-  color: #00A4E5;
+a:hover {
+  color: #00a4e5;
   transition: 0.5s;
 }
