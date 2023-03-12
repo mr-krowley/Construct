@@ -1,0 +1,56 @@
+footer {
+  background: #171819;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  padding-top: 35px;
+}
+.signup {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+}
+.subscription-label {
+  
+  color: white;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  margin-right: 70px;
+ 
+}
+.subscription-email{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+
+}
+.button3 {
+  background: #00a4e5;
+  color: white;
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 18px;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  padding-left: 40px;
+  padding-right: 40px;
+  
+}
+.end_text{
+color: white;
+text-align: center;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+margin-top: 51px;
+padding-bottom: 23px;
+}
