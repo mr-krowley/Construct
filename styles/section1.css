@@ -45,14 +45,44 @@ p2 {
   width: 150px;
   height: 225px;
   margin-left: 50px;
+  position: relative;
+ 
+  color: white;
 }
 .img_manage {
   width: 150px;
   height: 225px;
   margin-left: 10px;
+  position: relative;
+  
+  color: white;
 }
 .img_build {
   width: 150px;
   height: 225px;
   margin-left: 10px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.plan_left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-weight: 700;
+  font-size: 24px;
+}
+.manage_left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-weight: 700;
+  font-size: 24px;
+}
+.build_left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-weight: 700;
+  font-size: 24px;
 }
