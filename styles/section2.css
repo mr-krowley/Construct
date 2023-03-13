@@ -17,10 +17,12 @@
   height: 2px;
   width: 50px;
   background: #00a4e5;
-  margin-bottom: 82px;
+  
   margin: 10px 0;
 }
-p3 {
+.text_artikle {
+  max-width: 405px;
+  color: #48555B;
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
@@ -44,8 +46,8 @@ p3 {
 article {
   border: 1px solid #e6e6e6;
   width: 295px;
-  height: 330px;
-  padding: 10px;
+  height: auto;
+  padding: 23px;
 }
 .title_pensil {
   font-family: "Open Sans";

@@ -8,6 +8,7 @@
   margin-bottom: 11px;
 }
 
+
 .line {
   display: block;
   height: 2px;
@@ -30,7 +31,7 @@ h3 {
   font-size: 20px;
   margin-bottom: 30px;
 }
-p2 {
+.text {
   color: #48555b;
   font-family: "Open Sans";
   font-style: normal;
