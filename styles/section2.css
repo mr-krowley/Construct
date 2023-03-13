@@ -1,4 +1,4 @@
-.section2{
+.section2 {
   margin-bottom: 115px;
 }
 .capabilities {
@@ -12,23 +12,25 @@
   font-weight: 700;
   font-size: 18px;
 }
-.line2 {
+.title_capabilities::after {
+  content: "";
   display: block;
   height: 2px;
   width: 50px;
-  background: #00a4e5;
-  
-  margin: 10px 0;
+  padding-top: 10px;
+  border-bottom: 2px solid #00a4e5;
 }
+
+
 .text_artikle {
   max-width: 405px;
-  color: #48555B;
+  color: #48555b;
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-size: 11px;
   margin-left: 153px;
-  margin-right: 50px;
+  margin-right: 32px;
 }
 .battom {
   color: aliceblue;
@@ -97,7 +99,7 @@ article {
   font-weight: 400;
   font-size: 13px;
 }
-.img_card{
+.img_card {
   margin-bottom: 25px;
   margin-top: 38px;
 }
