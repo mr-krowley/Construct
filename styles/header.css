@@ -8,27 +8,27 @@
   text-align: center;
   align-items: center;
 }
-.img_header {
+.header__img {
   height: 23px;
   margin-top: 41px;
   
   
 }
-.title_header {
+.heaeder-cenrt__title {
   font-family:  "Bebas Neue";
   font-size: 60px;
   color: #ffffff;
   font-weight: 400;
   letter-spacing: 5.8px;
 }
-.title_text {
+.heaeder-cenrt__text {
   color: #ffffff;
   font-family: "Open Sans";
   font-weight: 700;
   font-size: 16px;
  
 }
-.scrolldown {
+.header-centr__scrolldown {
   font-weight: 700;
   font-size: 11px;
   margin-bottom: 71px;

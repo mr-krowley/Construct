@@ -12,7 +12,7 @@ footer {
   font-weight: 700;
   font-size: 22px;
 }
-.subscription-label {
+.signup-label {
   
   color: white;
   font-family: "Open Sans";
@@ -22,14 +22,14 @@ footer {
   margin-right: 70px;
  
 }
-.subscription-email{
+.signup-email{
 font-family: 'Open Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 22px;
 
 }
-.button3 {
+.signup-buttom {
   background: #00a4e5;
   color: white;
   font-family: "Open Sans";

@@ -7,7 +7,7 @@
   text-align: center;
   align-items: center;
 }
-H4 {
+.section3-title {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
@@ -15,7 +15,7 @@ H4 {
   margin-top: 120px;
   margin-bottom: 35px;
 }
-.booton2 {
+.section3-batoom {
 background: #00A4E5;
 color: white;
 font-family: 'Open Sans';
