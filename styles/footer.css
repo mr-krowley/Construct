@@ -13,23 +13,30 @@ footer {
   font-size: 22px;
 }
 .signup-label {
-  
   color: white;
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
   margin-right: 70px;
- 
+  line-height: 30px;
+  letter-spacing: 0.85px;
 }
-.signup-email{
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-
+.signup-email {
+  width: 250px;
+  height: 40px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  padding-left: 16px;
+  border-right: 1px solid #00a4e5;
+  border: 1px solid #979797;
 }
 .signup-buttom {
+  width: 150px;
+  height: 40px;
   background: #00a4e5;
   color: white;
   font-family: "Open Sans";
@@ -38,19 +45,17 @@ font-size: 22px;
   font-weight: 700;
   font-size: 13px;
   line-height: 18px;
-  padding-top: 10px;
-  padding-bottom: 4px;
-  padding-left: 40px;
-  padding-right: 40px;
-  
+  padding-left: 50px;
+  text-decoration: none;
 }
-.end_text{
-color: white;
-text-align: center;
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 11px;
-margin-top: 51px;
-padding-bottom: 23px;
+.end-text {
+  color: white;
+  text-align: center;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  margin-top: 51px;
+  padding-bottom: 23px;
+  line-height: 15px;
 }

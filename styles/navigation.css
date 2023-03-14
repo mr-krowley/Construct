@@ -11,16 +11,18 @@
   height: 60px;
 }
 .navigation-img {
- 
- padding: 15px;
- height: 100%;
+  padding: 15px;
+  height: 100%;
 }
 .navigation-list {
   padding: 20px;
-
   display: flex;
   justify-content: space-between;
   list-style-type: none;
+}
+.navigation-list:hover {
+  color: #00a4e5;
+  transition: 0.5s;
 }
 .navigation-list__home {
   color: black;
@@ -58,12 +60,12 @@
   font-size: 12px;
   margin-left: 29px;
 }
-a {
+.home-href{
   color: #48555b;
   text-decoration: none;
   transition: 0.5s;
 }
-a:hover {
+.home-href:hover {
   color: #00a4e5;
   transition: 0.5s;
 }

@@ -6,7 +6,9 @@
 .section1-title {
   text-align: center;
   margin-bottom: 11px;
-   margin-bottom: 82px;
+  margin-bottom: 82px;
+  font-family: "Open Sans";
+  color: #48555b;
 }
 .section1-title::after {
   content: "";
@@ -17,7 +19,6 @@
   margin: 0 auto;
   border-bottom: 2px solid #00a4e5;
 }
-
 
 .section1-story {
   display: flex;

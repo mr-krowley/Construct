@@ -1,6 +1,4 @@
-.section2 {
-  margin-bottom: 115px;
-}
+
 .capabilities {
   display: flex;
   justify-content: space-between;
@@ -21,7 +19,6 @@
   border-bottom: 2px solid #00a4e5;
 }
 
-
 .capabilities-text {
   max-width: 405px;
   color: #48555b;
@@ -32,14 +29,18 @@
   margin-left: 153px;
   margin-right: 32px;
 }
-.capabilities-battom {
+.capabilities-button {
+  width: 150px;
+  height: 40px;
   color: aliceblue;
   text-align: center;
   background: #00a4e5;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 5px;
-  padding-top: 5px;
+  padding-top: 10px;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.5px;
 }
 .card {
   display: flex;
