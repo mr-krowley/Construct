@@ -7,7 +7,7 @@
   text-align: center;
   align-items: center;
 }
-.section3-title {
+.section3__title {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
@@ -17,7 +17,7 @@
   color: #48555b;
   letter-spacing: 0.15px;
 }
-.section3-button {
+.section3__button {
   width: 150px;
   height: 40px;
   background: #00a4e5;

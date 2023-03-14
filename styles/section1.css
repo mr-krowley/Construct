@@ -9,6 +9,9 @@
   margin-bottom: 82px;
   font-family: "Open Sans";
   color: #48555b;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 2.4px;
 }
 .section1-title::after {
   content: "";
